@@ -1,0 +1,12 @@
+{
+  "hex_count": 7,
+  "hexes": [
+    {"id": 1, "x": 0, "y": 0, "width": 86, "height": 83, "orientation": 1},
+    {"id": 2, "x": 0, "y": 1, "width": 85, "height": 82, "orientation": 1},
+    {"id": 3, "x": 1, "y": 1, "width": 82, "height": 81, "orientation": 2},
+    {"id": 4, "x": 1, "y": 2, "width": 80, "height": 79, "orientation": 0},
+    {"id": 5, "x": 3, "y": 1, "width": 75, "height": 77, "orientation": 1},
+    {"id": 6, "x": 3, "y": 2, "width": 75, "height": 75, "orientation": 0},
+    {"id": 7, "x": 4, "y": 1, "width": 72, "height": 75, "orientation": 0}
+  ]
+}
