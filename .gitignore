@@ -112,3 +112,9 @@ InitTestScene*.unity*
 
 # Auto-generated cache in Assets folder
 /[Aa]ssets/[Ss]ceneDependencyCache*
+
+# Python script auto-generated meta files
+*.py.meta
+
+# C# auto-generated meta files
+*.cs.meta
